@@ -24,7 +24,7 @@ dependencies {
 }
 
 group = 'xyz.grasscutters.pltm'
-version = '1.0.0-dev'
+version = '1.2.0'
 description = 'PluginTemplate'
 sourceCompatibility = 17
 targetCompatibility = 17
